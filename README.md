@@ -1,4 +1,3 @@
-# student
 <!DOCTYPE html>
 <html>
 <head>
