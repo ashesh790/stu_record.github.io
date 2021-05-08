@@ -67,14 +67,5 @@ $con=mysqli_connect("localhost","root","","stu_rec");
 
  </div>
  </div> 
-
- <script type="text/javascript">
- 
- $(document).ready(function(){
- $('#tabledata').DataTable();
- }) 
- 
- </script>
-
 </body>
 </html> 
